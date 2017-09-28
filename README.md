@@ -1,4 +1,4 @@
-# EmailApi
+# Email API
 Requirements: dotnet core 2.0
 
 1) Create a gmail account and set Allow less secure apps: ON 
@@ -23,7 +23,7 @@ Open terminal and execute:
 <span style='color:#800080; '>}</span>'
 </pre>
 
-Postman example:
+Example request payload:
 <pre style='color:#000000;background:#ffffff;'><span style='color:#696969; '>{</span>
 <span style='color:#696969; '>	"subject": "application error",</span>
 <span style='color:#696969; '>	"toEmailAddress": "</span><span style='color:#7144c4; '>johndoe@gmail.com</span><span style='color:#696969; '>",</span>

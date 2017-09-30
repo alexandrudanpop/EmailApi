@@ -1,4 +1,7 @@
 # Email API
+
+Send emails using a REST API, with a single endpoint POST api/email
+
 Requirements: dotnet core 2.0
 
 1) Create a gmail account and set Allow less secure apps: ON 
